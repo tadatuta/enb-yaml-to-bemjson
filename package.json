@@ -26,13 +26,13 @@
   },
   "dependencies": {
     "js-yaml": "^3.2.2",
-    "vow": "0.4.5"
+    "vow": "0.4.12"
   },
   "devDependencies": {
-    "enb": ">= 0.12.0 < 1.0.0",
+    "enb": ">=1.2.0",
     "enb-validate-code": "0.0.1",
-    "jshint": "2.5.4",
-    "jscs": "1.4.5"
+    "jshint": "2.9.1",
+    "jscs": "2.11.0"
   },
   "scripts": {
     "test": "npm run lint",
